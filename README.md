@@ -1,10 +1,8 @@
 - 👋 Hi, I’m Julien
-- 👀 I’m interested in: git
-- 🌱 I’m currently learning: to use git
-- 💞️ I’m looking to collaborate on: my mental health
+- 👀 I’m interested in: robotics and cryptocurrency
+- 🌱 I’m currently learning: programming in C++
 - 📫 How to reach me: out of bounds
-- 😄 Pronouns: ta ti to
-- ⚡ Fun fact: I am not fun
+- 😄 Pronouns: he
 
 <!---
 julien-mp/julien-mp is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
